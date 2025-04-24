@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/purva/NAND-FLASH/build/CMakeFiles/bootloader
+/home/purva/NAND-FLASH/build/CMakeFiles/bootloader.rule
+/home/purva/NAND-FLASH/build/CMakeFiles/bootloader-complete.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/purva/NAND-FLASH/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
